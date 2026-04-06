@@ -1,0 +1,14 @@
+[
+  {
+    "patient_id": 1001,
+    "event_type": "admission",
+    "hospital_id": 12,
+    "timestamp": 1712301000
+  },
+  {
+    "patient_id": 1002,
+    "event_type": "discharge",
+    "hospital_id": 12,
+    "timestamp": 1712304600
+  }
+]
